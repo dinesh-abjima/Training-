@@ -1,0 +1,15 @@
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\bin\Debug\net6.0\staticKeyWord.exe
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\bin\Debug\net6.0\staticKeyWord.deps.json
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\bin\Debug\net6.0\staticKeyWord.runtimeconfig.json
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\bin\Debug\net6.0\staticKeyWord.dll
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\bin\Debug\net6.0\staticKeyWord.pdb
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\obj\Debug\net6.0\staticKeyWord.csproj.AssemblyReference.cache
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\obj\Debug\net6.0\staticKeyWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\obj\Debug\net6.0\staticKeyWord.AssemblyInfoInputs.cache
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\obj\Debug\net6.0\staticKeyWord.AssemblyInfo.cs
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\obj\Debug\net6.0\staticKeyWord.csproj.CoreCompileInputs.cache
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\obj\Debug\net6.0\staticKeyWord.dll
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\obj\Debug\net6.0\refint\staticKeyWord.dll
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\obj\Debug\net6.0\staticKeyWord.pdb
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\obj\Debug\net6.0\staticKeyWord.genruntimeconfig.cache
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\staticKeyWord\staticKeyWord\obj\Debug\net6.0\ref\staticKeyWord.dll

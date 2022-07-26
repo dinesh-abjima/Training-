@@ -1,0 +1,15 @@
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\bin\Debug\net6.0\interfaces3.exe
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\bin\Debug\net6.0\interfaces3.deps.json
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\bin\Debug\net6.0\interfaces3.runtimeconfig.json
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\bin\Debug\net6.0\interfaces3.dll
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\bin\Debug\net6.0\interfaces3.pdb
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\obj\Debug\net6.0\interfaces3.csproj.AssemblyReference.cache
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\obj\Debug\net6.0\interfaces3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\obj\Debug\net6.0\interfaces3.AssemblyInfoInputs.cache
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\obj\Debug\net6.0\interfaces3.AssemblyInfo.cs
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\obj\Debug\net6.0\interfaces3.csproj.CoreCompileInputs.cache
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\obj\Debug\net6.0\interfaces3.dll
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\obj\Debug\net6.0\refint\interfaces3.dll
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\obj\Debug\net6.0\interfaces3.pdb
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\obj\Debug\net6.0\interfaces3.genruntimeconfig.cache
+C:\Users\DineshChoudhary\Desktop\Training\07-04-2022\interfaces3\interfaces3\obj\Debug\net6.0\ref\interfaces3.dll
